@@ -8,7 +8,7 @@
 
 ## Required Go Libraries
 
-- github.com/fatih/color
+- git clone github.com/fatih/color
 - golang.org/x/sync/errgroup
 
 ## Installation Steps
