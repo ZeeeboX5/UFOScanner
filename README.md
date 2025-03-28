@@ -8,8 +8,8 @@ Git
 
 Required Go Libraries
 
-github.com/fatih/color
-golang.org/x/sync/errgroup
+- github.com/fatih/color
+- golang.org/x/sync/errgroup
 
 🛠 Installation Steps
 1. Install Go
