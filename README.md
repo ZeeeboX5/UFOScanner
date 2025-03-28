@@ -17,6 +17,18 @@ macOS
 bash
 
 
+2.Windows
+
+Download Go installer from official website
+Run installer
+Set system PATH environment variable
+Open PowerShell/CMD and verify:
+
+powershell
+
+go version
+
+
 ``` # Using Homebrew
 brew install go
 
