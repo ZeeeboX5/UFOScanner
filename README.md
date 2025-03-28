@@ -63,8 +63,31 @@ go version
 
 ## 2.Clone the Repository
 
-go install -v github.com/ZeeeboX5/UFOScanner@latest
+```
 
+go install -v github.com/ZeeeboX5/UFOScanner@latest
+```
+
+
+
+## 3.Configuration of Proxy
+
+
+In the main.go, you can configure proxies if needed:
+
+```
+proxies := []ProxyConfig{
+    {
+        URL:      "http://proxy1.example.com:8080",
+        Protocol: "http",
+        Auth: &ProxyAuth{
+            Username: "user",
+            Password: "pass",
+        },
+    },
+    // Add more proxies as needed
+}
+```
 
 
 
