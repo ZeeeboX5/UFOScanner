@@ -26,8 +26,8 @@ brew install go
 go version
 ```
 
-
-``` # Using Windows
+2. Install using Windows
+``` 
 
 Download Go installer from official website
 Run installer
