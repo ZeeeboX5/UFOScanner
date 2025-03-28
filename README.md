@@ -45,7 +45,16 @@ Go Version
 go install -v github.com/ZeeeboX5/UFOScanner@latest
 
 ```
+# Download and install
+wget https://go.dev/dl/go1.21.6.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.21.6.linux-amd64.tar.gz
 
+# Add to PATH
+echo 'export PATH=$PATH:/usr/local/go/bin' >> ~/.bashrc
+source ~/.bashrc
+
+# Verify
+go version
 
 
 
