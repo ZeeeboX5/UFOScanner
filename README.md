@@ -12,9 +12,9 @@ Required Go Libraries
 - golang.org/x/sync/errgroup
 
 🛠 Installation Steps
-1. Install Go
-macOS
-bash
+
+- Install Go using macOS
+
 
 
 
@@ -26,7 +26,7 @@ brew install go
 go version
 ```
 
-2. Install using Windows
+2. Install Go using Windows
 ``` 
 
 Download Go installer from official website
@@ -34,6 +34,10 @@ Run installer
 Set system PATH environment variable
 Open PowerShell/CMD and verify:
 Go Version
+
+3. Install Go Using Linux (Ubuntu/Debian)
+```
+
 
 
 
