@@ -13,7 +13,7 @@ Required Go Libraries
 
 🛠 Installation Steps
 
-- Install Go using macOS
+1.Install Go using macOS
 
 
 
