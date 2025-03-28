@@ -24,3 +24,17 @@ brew install go
 go version
 ```
 
+
+1.**Clone the Repository**
+
+# Create project directory
+mkdir subdomain-enumerator
+cd subdomain-enumerator
+
+# Clone repository 
+git init
+touch main.go
+
+
+
+
