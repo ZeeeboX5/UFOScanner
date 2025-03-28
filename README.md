@@ -33,6 +33,7 @@ Download Go installer from official website
 Run installer
 Set system PATH environment variable
 Open PowerShell/CMD and verify:
+# Verify installation
 Go Version
 
 ```
