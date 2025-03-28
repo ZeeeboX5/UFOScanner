@@ -61,6 +61,12 @@ go version
 ```
 
 
+## 2.Clone the Repository
+
+go install -v github.com/ZeeeboX5/UFOScanner@latest
+
+
+
 
 
 
