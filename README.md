@@ -27,6 +27,15 @@ go version
 ```
 
 
+``` # Using Windows
+
+Download Go installer from official website
+Run installer
+Set system PATH environment variable
+Open PowerShell/CMD and verify:
+Go Version
+
+
 1.**Clone the Repository**
 
 # Create project directory
