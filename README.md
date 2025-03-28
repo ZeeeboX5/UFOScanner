@@ -48,11 +48,13 @@ sudo tar -C /usr/local -xzf go1.21.6.linux-amd64.tar.gz
 echo 'export PATH=$PATH:/usr/local/go/bin' >> ~/.bashrc
 source ~/.bashrc
 
-*OR*
+```
 
+*OR*
+```
 echo 'export PATH=$PATH:/usr/local/go/bin' >> ~/.zshrc
 source ~/.zshrc
-
+```
 
 go version
 ```
