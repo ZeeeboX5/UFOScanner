@@ -36,15 +36,7 @@ Open PowerShell/CMD and verify:
 Go Version
 
 
-1.**Clone the Repository**
 
-# Create project directory
-mkdir subdomain-enumerator
-cd subdomain-enumerator
-
-# Clone repository 
-git init
-touch main.go
 
 
 
