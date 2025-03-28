@@ -2,8 +2,8 @@
 
 System Requirements:
 
-Go (Golang) 1.21+
-Git
+- Go (Golang) 1.21+
+- Git
 
 
 Required Go Libraries
