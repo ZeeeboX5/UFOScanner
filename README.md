@@ -6,7 +6,7 @@
 
 
 
-Required Go Libraries
+# Required Go Libraries
 
 - github.com/fatih/color
 - golang.org/x/sync/errgroup
