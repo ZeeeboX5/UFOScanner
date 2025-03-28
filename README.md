@@ -22,7 +22,7 @@
 ``` # Using Homebrew
 brew install go
 
-# Verify installation
+
 go version
 ```
 
