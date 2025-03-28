@@ -11,7 +11,7 @@
 - git clone github.com/fatih/color
 - golang.org/x/sync/errgroup
 
-## 1.Installation Steps
+## 1.Installing Golang
 
 1.Install Go using macOS
 
