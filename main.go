@@ -9,6 +9,7 @@ import (
 	"io"
 	"log"
 	"math"
+	"math/rand"
 	"net/http"
 	"net/url"
 	"os"
@@ -311,6 +312,9 @@ func parseCrtShResponse(body []byte) ([]string, error) {
 }
 
 func main() {
+    // Initialize random seed
+    rand.Seed(time.Now().UnixNano())
+    
 	// Example proxy configurations
 	proxies := []ProxyConfig{
 		{
