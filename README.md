@@ -73,7 +73,7 @@ go install -v github.com/ZeeeboX5/UFOScanner@latest
 ## 3.Configuration of Proxy
 
 
-In the main.go, you can configure proxies if needed:
+In the main.go file, you can configure proxies if needed:
 
 ```
 proxies := []ProxyConfig{
@@ -88,6 +88,11 @@ proxies := []ProxyConfig{
     // Add more proxies as needed
 }
 ```
+
+
+# Running the Tool
+
+
 
 
 
